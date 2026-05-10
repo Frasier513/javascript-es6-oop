@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 Demonstrates modern ES6+ features including arrow functions, destructuring, spread/rest operators, template literals, Promises, and Object-Oriented Programming with classes and inheritance.
